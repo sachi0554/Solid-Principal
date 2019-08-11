@@ -20,7 +20,8 @@ namespace Solid_Principal_I.classLibrary
         public string Title { set; get; }
         public void CheckIn()
         {
-            Borrower = "";
+            Borrower = "" ;
+            //asdas
         }
 
         public void CheckOut(string borrower)

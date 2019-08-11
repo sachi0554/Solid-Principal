@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace Solid_Princial_O
 {
+
+    /*
+      SOLID O open for extended close for modification 
+
+    */
     class Program
     {
         static void Main(string[] args)
